@@ -13,7 +13,7 @@
 - **Threat intel notes** — adversary profiles mapped to ATT&CK
 
 ## 📫 Contact
-- **LinkedIn:** [add your LinkedIn URL]
+- **LinkedIn:** https://www.linkedin.com/in/bhargav-chowdary-cybersecurity/
 - **Email:** bhargavchowdaryr1@gmail.com👋
 
 <!--
